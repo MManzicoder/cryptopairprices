@@ -1,13 +1,24 @@
 {
-  "name": "cryptopairprices",
+  "name": "@mmanzi/cryptopairprices",
   "version": "1.0.0",
-  "description": "",
+  "description": "Calculate crypto pair prices with only one call",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "Crypto pair",
+    "Cryptocurrency",
+    "Crypto",
+    "crypto pair prices"
+  ],
   "author": "Mmanzi",
+  "private":"false",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MManzicoder/cryptopairprices.git"
+  },
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2"
