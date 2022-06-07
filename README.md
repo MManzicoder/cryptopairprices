@@ -5,7 +5,7 @@ It currently supports all pair prices in these nine (9)  cryptocurrencies ( Bitc
 
 # Installation
 
-```npm install @mmanzi/cryptopairprices```
+```npm install cryptopairprices```
 
 # Usage 
 
@@ -13,7 +13,7 @@ It currently supports all pair prices in these nine (9)  cryptocurrencies ( Bitc
 
 node
 
- import { convert } from "@mmanzi/cryptopairprices";
+ import { convert } from "cryptopairprices";
  //Add parameters to the function to convert from specified cryptocurrency to another
  //Example
 
