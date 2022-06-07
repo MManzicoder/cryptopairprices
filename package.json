@@ -1,11 +1,11 @@
 {
-  "name": "cryptopairprices",
+  "name": "cryptopairprice",
   "version": "1.0.1",
   "description": "Calculate crypto pair prices with only one call",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [
     "Crypto pair",
