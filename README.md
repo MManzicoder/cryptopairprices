@@ -17,11 +17,12 @@ node
  //Add parameters to the function to convert from specified cryptocurrency to another
  //Example
 
- const data = await convert("ETH", "BTC", 2000);
+// convert
+ const data = await convert("ETH", "BTC", 2000);// (from, to, amount)
    
  //{ amount: 2000, from: 'ETH', to: 'BTC', expected: '119.09300158505243 BTC'}
 
- const data2 = await convert("BTC", "LTC",20);
+ const data2 = await convert("BTC", "LTC",20);// (from, to, amount)
 
 //{ amount: 20, from: 'BTC', to: 'LTC', expected: '9589.760724267833 LTC'}
 //  expected field in the returned object is the expected converted amount.
