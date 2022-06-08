@@ -38,6 +38,9 @@ Example of package.json including type property with value module
     "Crypto pair",
     "Cryptocurrency",
     "Crypto",
+    "pair price",
+    "mmanzi-cryptopairprice",
+    "mmanzi pair price",
     "crypto pair prices"
   ],
   "author": "Mmanzi",
