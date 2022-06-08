@@ -21,7 +21,7 @@ Open your "package.json" file and add the type property with value of module
 "type":"module"
 
 
-Example of package.json including type property of value module 
+Example of package.json including type property with value module 
 
  package.json
 
