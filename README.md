@@ -14,9 +14,9 @@ It currently supports all pair prices in these nine (9)  cryptocurrencies ( Bitc
 node
 
 
-```open your package.json file and add the type property with value of module```
+Open your ```package.json``` file and add the type property with value of module
 
-```"type":"module"```
+"type":"module"
 
  import  convert  from "cryptopairprice";
  //Add parameters to the function to convert from specified cryptocurrency to another
