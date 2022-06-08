@@ -58,7 +58,7 @@ Example of package.json including type property with value module
  //Add parameters to the function to convert from specified cryptocurrency to another
  //Example
 
- const data1 = await convert("BTC", "LTC", 2000);// (from, to, amount)
+ const data1 = await convert("BTC", "LTC", 2000);//parameters 👉 (from, to, amount)
    
  /*
  returned data
@@ -71,7 +71,7 @@ Example of package.json including type property with value module
 }
 
 */
- const data2 = await convert("ETH", "BTC",1000);// (from, to, amount)
+ const data2 = await convert("ETH", "BTC",1000);//parameters 👉 (from, to, amount)
 
 /*
 returned data
@@ -84,7 +84,7 @@ returned data
 }
 
 */
-const data3 = await convert("LINK", "ZEC",1);// (from, to, amount)
+const data3 = await convert("LINK", "ZEC",1);//parameters 👉 (from, to, amount)
 
 /*
 returned data
