@@ -9,7 +9,7 @@ export const convert = async (from, to, amount)=>{
    const oneUsdForTo = getValueOfOneUSD(toData.amount, 1);
    const desiredValue = (oneUsdForTo/oneUsdForFrom)*amount;
    
-   return {amount,from, to, expected: desiredValue+` ${to}`};
+   return {amountToConvert: amount,from, to, convertedAmount: desiredValue};
 }
 const checkSupportance = (from, to)=>{
   let fromFound = false;

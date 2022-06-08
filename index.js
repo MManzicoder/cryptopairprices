@@ -1,5 +1,5 @@
 import { convert } from "./utils/conversion.js";
- console.log(await convert("BTC", "LTC", 1));
+ console.log(await convert("LINK", "ZEC", 1));
 export default convert;
 
 
