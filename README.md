@@ -55,8 +55,8 @@ Example of package.json including type property with value module
 }
 
  import  convert  from "mmanzi-cryptopairprice";
- 
- Add parameters to the function to convert from specified cryptocurrency to another
+
+ //Add parameters to the function to convert from specified cryptocurrency to another
 
 
  Example
