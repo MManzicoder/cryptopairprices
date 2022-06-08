@@ -64,7 +64,7 @@ Example of package.json including type property of value module
   amountToConvert: 20,
   from: 'BTC',
   to: 'LTC',
-  convertedAmount: 9718.519251139376
+👉convertedAmount: 9718.519251139376
 }
 
 */
@@ -77,7 +77,7 @@ returned data
   amountToConvert: 1000,
   from: 'ETH',
   to: 'BTC',
-  convertedAmount: 59.16970031548021
+👉convertedAmount: 59.16970031548021
 }
 
 */
@@ -90,7 +90,7 @@ returned data
   amountToConvert: 1,
   from: 'LINK',
   to: 'ZEC',
-  convertedAmount: 0.0921754263643847
+👉convertedAmount: 0.0921754263643847
 }
 
 */
