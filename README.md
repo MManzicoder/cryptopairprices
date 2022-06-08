@@ -5,7 +5,7 @@ It currently supports all pair prices in these nine (9)  cryptocurrencies ( Bitc
 
 # Installation
 
-```npm install cryptopairprices```
+```npm install mmanzi-cryptopairprice```
 
 # Usage 
 
@@ -18,7 +18,7 @@ Open your "package.json" file and add the type property with value of module
 
 "type":"module"
 
- import  convert  from "cryptopairprice";
+ import  convert  from "mmanzi-cryptopairprice";
  //Add parameters to the function to convert from specified cryptocurrency to another
  //Example
 

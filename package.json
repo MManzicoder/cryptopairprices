@@ -1,5 +1,5 @@
 {
-  "name": "cryptopairprice",
+  "name": "mmanzi-cryptopairprice",
   "version": "1.0.1",
   "description": "Calculate crypto pair prices with only one call",
   "main": "index.js",
