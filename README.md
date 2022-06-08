@@ -56,7 +56,9 @@ Example of package.json including type property with value module
 
  import  convert  from "mmanzi-cryptopairprice";
  //Add parameters to the function to convert from specified cryptocurrency to another
- //Example
+
+
+ Example
 
  const data1 = await convert("BTC", "LTC", 2000);//parameters 👉 (from, to, amount)
    
